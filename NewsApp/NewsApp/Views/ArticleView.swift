@@ -38,36 +38,6 @@ struct ArticleView: View {
                     .frame(width: 100, height: 100)
                     .cornerRadius(10)
             }
-
-             
-//            if let image = article.image, let url = URL(string: image) {
-//                
-//                AsyncImage(url: url) { phase in
-//                        if let image = phase.image {
-//                            image
-//                                .resizable()
-//                                .aspectRatio(contentMode: .fill)
-//                        } else if phase.error != nil {
-//                            Image(systemName: "photo.fill")
-//                                .foregroundColor(.white)
-//                                .background(Color.gray)
-//                                .frame(width: 100, height: 100)
-//                                .cornerRadius(10)
-//                        }
-//                } placeholder: {
-//                    EmptyView()
-//                }
-//                .environment(\.urlImageOptions,
-//                              .init(fetchPolicy: .returnStoreElseLoad(downloadDelay: nil)))
-//
-//            } else {
-//                Image(systemName: "photo.fill")
-//                    .foregroundColor(.white)
-//                    .background(Color.gray)
-//                    .frame(width: 100, height: 100)
-//                    .cornerRadius(10)
-//            }
-
             
             VStack(alignment: .leading, spacing: 4) {
                 

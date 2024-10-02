@@ -1,0 +1,112 @@
+{
+  "articles": [
+    {
+      "author": "Mary Gilbert, Alisha Ebrahimji, Rachel Ramirez",
+      "url": "https://www.cnn.com/weather/live-news/hurricane-helene-florida-north-carolina-georgia-09-30-24/index.html",
+      "source": "CNN",
+      "title": "The latest on the aftermath of Hurricane Helene - CNN",
+      "description": "Dozens are dead across multiple Southeastern states after Hurricane Helene made landfall on Thursday. Follow here for the latest.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175030468.jpg?c=16x9&q=w_800,c_fill",
+      "date": "2024-09-30T13:50:45Z"
+    },
+    {
+      "author": "Kenna Hughes-Castleberry",
+      "url": "https://arstechnica.com/science/2024/09/roll-for-insight-using-dungeons-dragons-as-a-group-therapy-tool/",
+      "source": "Ars Technica",
+      "title": "Roll for insight: Using Dungeons & Dragons as a group therapy tool - Ars Technica",
+      "description": "Research is ongoing, but therapists are happy with early results.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/d-n-d-therapy-dice-760x380.jpg",
+      "date": "2024-09-30T13:42:04Z"
+    },
+    {
+      "author": "Tom Viera",
+      "url": "https://www.usatoday.com/story/sports/nfl/2024/09/29/broncos-bo-nix-first-half-stats-week-4-vs-jets/75443140007/",
+      "source": "USA Today",
+      "title": "Broncos QB Bo Nix delivers historically bad first half vs. Jets - USA TODAY",
+      "description": "Broncos rookie quarterback Bo Nix had an embarrassing first half against the New York Jets in Week 4.",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/08/29/USAT/74991050007-usatsi-24026716.jpg?crop=5999,3375,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "date": "2024-09-30T13:38:26Z"
+    },
+    {
+      "author": null,
+      "url": "https://www.bbc.com/news/articles/c8rdygy5888o",
+      "source": "BBC News",
+      "title": "Austrian election: Kickl's far right 'opens new era' with unprecedented victory - BBC.com",
+      "description": "The Freedom Party wins its first election, but building a coalition will be difficult.",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d1e0/live/2ba1a020-7ef3-11ef-bf4b-ef19cfbf3842.jpg",
+      "date": "2024-09-30T12:25:51Z"
+    },
+    {
+      "author": null,
+      "url": "https://removed.com",
+      "source": "[Removed]",
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "image": null,
+      "date": "2024-09-30T12:23:00Z"
+    },
+    {
+      "author": "Dade Hayes",
+      "url": "http://deadline.com/2024/09/directv-dish-network-merge-pay-tv-giant-1236103299/",
+      "source": "Deadline",
+      "title": "DirecTV And Dish To Merge, Creating Pay-TV Giant - Deadline",
+      "description": "DirecTV and Dish Network announced plans to merge, creating by far the largest U.S. pay-TV operator",
+      "image": "https://deadline.com/wp-content/uploads/2024/09/DirecTV-Dish.jpg?w=1024",
+      "date": "2024-09-30T11:53:00Z"
+    },
+    {
+      "author": "April Roach",
+      "url": "https://www.cnbc.com/2024/09/30/murdochs-rea-group-ends-chase-for-uks-rightmove.html",
+      "source": "CNBC",
+      "title": "Rupert Murdoch’s property group REA ends chase to buy Rightmove after multiple rejected offers - CNBC",
+      "description": "Rupert Murdoch's Australian property listing firm REA Group said Monday it would no longer seek to buy UK property portal Rightmove.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108030563-1725648680352-gettyimages-1258951077-72718892.jpeg?v=1727695157&w=1920&h=1080",
+      "date": "2024-09-30T11:27:36Z"
+    },
+    {
+      "author": "IGNATIUS SSUUNA",
+      "url": "https://apnews.com/article/rwanda-marburg-virus-c9728160abef2ca94395ec3ba4dfdc49",
+      "source": "Associated Press",
+      "title": "Rwanda reports 8 deaths linked to Ebola-like Marburg virus days after it declared an outbreak - The Associated Press",
+      "description": "Rwanda says that eight people have died so far from the highly contagious Marburg virus. The announcement comes just days after the country declared an outbreak of the deadly hemorrhagic fever that has no authorized vaccine or treatment. Like Ebola, the Marbu…",
+      "image": "https://dims.apnews.com/dims4/default/8b0c683/2147483647/strip/true/crop/5260x2959+0+248/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2Fda%2F37c9fab069531e2387858d6e69b1%2Feb2f4b4ac5004ebabb12c43c3fdb1994",
+      "date": "2024-09-30T11:11:00Z"
+    },
+    {
+      "author": "MARCIA DUNN",
+      "url": "https://apnews.com/article/spacex-boeing-nasa-stuck-astronauts-1162a1723bc426f5de9f30e3817c2605",
+      "source": "Associated Press",
+      "title": "Stuck NASA astronauts welcome SpaceX capsule that’ll bring them home next year - The Associated Press",
+      "description": "The two astronauts stuck at the International Space Station since June are welcoming their new ride home. A SpaceX capsule docked at the orbiting complex on Sunday, a day after blasting off from Cape Canaveral, Florida. The capsule arrived with two astronauts…",
+      "image": "https://dims.apnews.com/dims4/default/8f28891/2147483647/strip/true/crop/3947x2220+27+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2F96%2F3f83c3dddef10891702b6c9ada19%2Fb6b06ab528d14de3949da6e44cc53e3c",
+      "date": "2024-09-30T10:40:00Z"
+    },
+    {
+      "author": "ABC News",
+      "url": "https://abcnews.go.com/US/nyc-mayor-eric-adams-seeks-dismissal-bribery-charge/story?id\\\\u003d114343177",
+      "source": "ABC News",
+      "title": "NYC Mayor Eric Adams seeks dismissal of bribery charge brought by 'zealous' prosecutors - ABC News",
+      "description": null,
+      "image": null,
+      "date": "2024-09-30T10:33:13Z"
+    },
+    {
+      "author": "Landon Mion",
+      "url": "https://www.foxnews.com/us/single-utah-mother-33-raising-money-her-own-funeral-after-cancer-diagnosis-gives-her-3-months-live",
+      "source": "Fox News",
+      "title": "Single Utah mother, 33, raising money for her own funeral after cancer diagnosis gives her 3 months to live - Fox News",
+      "description": "A single Utah mother of two was told she has three months to live after she was diagnosed with terminal cancer and Cushing Syndrome, and is now planning her own funeral.",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/utahfam.png",
+      "date": "2024-09-30T09:58:00Z"
+    },
+    {
+      "author": "Tim Hardwick",
+      "url": "https://www.macrumors.com/2024/09/30/apple-launch-smart-home-display-next-year/",
+      "source": "MacRumors",
+      "title": "Apple May Launch First iPad-Like Smart Home Accessory Next Year - MacRumors",
+      "description": "Apple could release an iPad-like smart home accessory based on its homeOS platform as early as next year, according to Bloomberg's Mark Gurman.  ...",
+      "image": "https://images.macrumors.com/t/B121rW0RKsIWG_4OsT0NEt40UbU=/1600x/article-new/2023/01/iPad-iOS-16-WP-Display-Feature-eric-edit.jpeg",
+      "date": "2024-09-30T09:55:08Z"
+    }
+  ]
+}

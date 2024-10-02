@@ -22,6 +22,8 @@
 		FAD34B3C2CAC5CA60036ECD3 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD34B3B2CAC5CA60036ECD3 /* ErrorView.swift */; };
 		FAD34B3E2CAC67D20036ECD3 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD34B3D2CAC67D20036ECD3 /* DetailView.swift */; };
 		FAD34B402CAC75F70036ECD3 /* ArticleViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD34B3F2CAC75F70036ECD3 /* ArticleViewModelTests.swift */; };
+		FAD34B422CAD22980036ECD3 /* MockArticleService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD34B412CAD22980036ECD3 /* MockArticleService.swift */; };
+		FAD34B482CAD24DE0036ECD3 /* Stub.json in Resources */ = {isa = PBXBuildFile; fileRef = FAD34B472CAD24DE0036ECD3 /* Stub.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +62,8 @@
 		FAD34B3B2CAC5CA60036ECD3 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 		FAD34B3D2CAC67D20036ECD3 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		FAD34B3F2CAC75F70036ECD3 /* ArticleViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleViewModelTests.swift; sourceTree = "<group>"; };
+		FAD34B412CAD22980036ECD3 /* MockArticleService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockArticleService.swift; sourceTree = "<group>"; };
+		FAD34B472CAD24DE0036ECD3 /* Stub.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Stub.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +123,7 @@
 				FAD34B042CAC50C30036ECD3 /* ContentView.swift */,
 				FAD34B062CAC50CF0036ECD3 /* Assets.xcassets */,
 				FAD34B082CAC50CF0036ECD3 /* Preview Content */,
+				FAD34B472CAD24DE0036ECD3 /* Stub.json */,
 			);
 			path = NewsApp;
 			sourceTree = "<group>";
@@ -136,6 +141,7 @@
 			children = (
 				FAD34B132CAC50D00036ECD3 /* NewsAppTests.swift */,
 				FAD34B3F2CAC75F70036ECD3 /* ArticleViewModelTests.swift */,
+				FAD34B412CAD22980036ECD3 /* MockArticleService.swift */,
 			);
 			path = NewsAppTests;
 			sourceTree = "<group>";
@@ -297,6 +303,7 @@
 			files = (
 				FAD34B0A2CAC50CF0036ECD3 /* Preview Assets.xcassets in Resources */,
 				FAD34B072CAC50CF0036ECD3 /* Assets.xcassets in Resources */,
+				FAD34B482CAD24DE0036ECD3 /* Stub.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -339,6 +346,7 @@
 			files = (
 				FAD34B142CAC50D00036ECD3 /* NewsAppTests.swift in Sources */,
 				FAD34B402CAC75F70036ECD3 /* ArticleViewModelTests.swift in Sources */,
+				FAD34B422CAD22980036ECD3 /* MockArticleService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

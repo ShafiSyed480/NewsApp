@@ -45,6 +45,11 @@ struct DetailView: View {
                 Text(description)
             }
             
+            if let author = article.author {
+                Text("- \(author)")
+                    .frame(width: 200, height: 50, alignment: .bottomTrailing)
+            }
+            
         }
     }
 }
