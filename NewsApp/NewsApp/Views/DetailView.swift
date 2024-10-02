@@ -9,7 +9,7 @@ import SwiftUI
 
 struct DetailView: View {
     
-    var article: Article
+    @State var article: Article
     
     var body: some View {
         
